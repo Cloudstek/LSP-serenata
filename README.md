@@ -1,3 +1,5 @@
+# ⚠️ This repository has been moved to [sublimelsp/LSP-Serenata](https://github.com/sublimelsp/LSP-Serenata)!
+
 # LSP-serenata
 > PHP support for Sublime's LSP plugin using [Serenata](https://gitlab.com/Serenata/Serenata).
 
